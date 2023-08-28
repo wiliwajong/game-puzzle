@@ -1,0 +1,20 @@
+.grid {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.row {
+    display: flex;
+    gap: 10px;
+}
+
+.card {
+    padding: 20px;
+    background: blueviolet;
+    width: 50px;
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
